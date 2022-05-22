@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianyalang&show_icons=true&theme=merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tianyalang&show_icons=true&theme=merko)
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyalang&layout=compact&hide_border=true&langs_count=10&theme=dark)
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)
